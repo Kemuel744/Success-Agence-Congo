@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Pages principales -->
+  <url>
+    <loc>https://www.bomoyi-malamu.com/index.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/Apropos/Apropos.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/service/service.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/blog/blog.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/contact/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/Rendez-vous/rendez_vous.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/docteur/docteur.html</loc>
+  </url>
+
+  <!-- Services (dossier /service/) -->
+  <url>
+    <loc>https://www.bomoyi-malamu.com/service/cardio.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/service/pediatrie.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/service/ginecolo.html</loc>
+  </url>
+
+  <!-- Pages racine des services -->
+  <url>
+    <loc>https://www.bomoyi-malamu.com/cardio.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/chirurgie.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/ophta.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/ginecolo.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/dentiserie.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/pediatrie.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/neurologie.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.bomoyi-malamu.com/laboratoire.html</loc>
+  </url>
+
+</urlset>
